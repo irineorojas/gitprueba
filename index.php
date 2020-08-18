@@ -6,6 +6,6 @@
 </head>
 <body>
    <input type="text" value="Name">
-   <input type="button" value="enviar">
+   <input type="button" value="bucar">
 </body>
 </html>
