@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <input type="text" value="Name">
+   <input type="button" value="enviar">
 </body>
 </html>
